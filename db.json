@@ -1,5 +1,5 @@
-{
-   "totalDeviceCount": 50,
-   "activeDevicCount": 45,
-   "inActiveDeviceCount": 5
-}
+[{
+   "totalDeviceCount":50,
+   "activeDevicCount":45,
+   "inActiveDeviceCount":5
+}]
