@@ -1,7 +1,5 @@
 {
-  deviceStatus: {
    "totalDeviceCount": 50,
    "activeDevicCount": 45,
    "inActiveDeviceCount": 5
- }
 }
